@@ -43,6 +43,6 @@ Berikut adalah nilai centroid hasil training K-Means untuk setiap cluster:
   - **Karakteristik:** Pendapatan rendah, belanja rendah.
 
 ## 💡 Kredit
-Made with ❤️ by Dwi Cahya Novita. Proyek ini adalah bagian dari kursus **Machine Learning untuk Pemula** yang diselenggarakan oleh **Dicoding**.
+Dwi Cahya Novita. Proyek ini adalah bagian dari kursus **Machine Learning untuk Pemula** yang diselenggarakan oleh **Dicoding**.
 
 ---
